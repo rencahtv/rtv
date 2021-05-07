@@ -48,7 +48,7 @@
     "sitemapSwitcherAuto": "on",
     "siteUrl": false,
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
-    "publishChangesOnly": true,
+    "publishChangesOnly": false,
     "mbrsiteDomain": "mzejfmjwch",
     "cookiesAlert": false,
     "gdpr": false
