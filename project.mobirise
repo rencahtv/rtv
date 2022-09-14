@@ -50,7 +50,7 @@
     "sitemapSwitcherAuto": "on",
     "siteUrl": "https://rencahtv.github.io/rtv",
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\nRencah TV",
-    "publishChangesOnly": true,
+    "publishChangesOnly": false,
     "mbrsiteDomain": "zcvtcfpaiz",
     "cookiesAlert": {
       "customDialogSelector": false,
