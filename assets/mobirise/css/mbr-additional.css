@@ -4343,6 +4343,49 @@ section.lazy-placeholder:after {
 .cid-twnP9zWaQX H2 {
   color: #ffffff;
 }
+.cid-twobLxaHB2 {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #232323;
+}
+.cid-twobLxaHB2 .mbr-section-subtitle {
+  color: #efefef;
+}
+.cid-twobLxaHB2 .media-row {
+  display: -webkit-flex;
+  justify-content: center;
+  -webkit-justify-content: center;
+}
+.cid-twobLxaHB2 .team-item {
+  transition: all .2s;
+  margin-bottom: 2rem;
+}
+.cid-twobLxaHB2 .team-item .item-image img {
+  width: 100%;
+}
+.cid-twobLxaHB2 .team-item .item-name p {
+  margin-bottom: 0;
+}
+.cid-twobLxaHB2 .team-item .item-role p {
+  margin-bottom: 0;
+}
+.cid-twobLxaHB2 .team-item .item-social {
+  display: -webkit-flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  -webkit-flex-wrap: wrap;
+  -webkit-justify-content: center;
+}
+.cid-twobLxaHB2 .team-item .item-social .socicon {
+  color: #232323;
+  font-size: 17px;
+}
+.cid-twobLxaHB2 .team-item .item-caption {
+  background: #efefef;
+}
+.cid-twobLxaHB2 H2 {
+  color: #ffffff;
+}
 .cid-twmU8eZEN6 .navbar {
   background: #232323;
   transition: none;
